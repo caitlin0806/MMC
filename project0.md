@@ -38,12 +38,13 @@ All of the team managers are still active and only 6% of the team owners have de
 
 **I was curious to see if deactivation status had anything to do with the users' payment plan.**
 
-![deactpay](https://user-images.githubusercontent.com/67920437/112705114-b12f9180-8e73-11eb-880e-91a7f0d5cb46.png)
+![deactpay](https://user-images.githubusercontent.com/67920437/112712632-32544c00-8ea7-11eb-871a-f2eb0be51e50.png)
+
 I found that payment plan 7, which is the free payment plan, had the most users (130) and payment plan 4 had the least (1). This could potentially mean that payment plan 4 is most likely not the best payment plan for users or it is not a popular choice. Payment plan 1 had the biggest percentage of people who deactivated at 40%, but only 5 people had that plan. Payment plan 13 had 33 users and 15% of them deactivated. This was an interesting visualization to look at as payment plan 13 might not be a plan that users like as well.
 
 **Lastly, I decided to look at trends that dealt with imports.**
 
-![importpay](https://user-images.githubusercontent.com/67920437/112705347-b3462000-8e74-11eb-9abd-94739839b9de.png)
+![importpay](https://user-images.githubusercontent.com/67920437/112712641-3e400e00-8ea7-11eb-9809-062e381c7ad8.png)
 
 The free payment plan (payment plan 7) had the most imports at 352. Looking at import status across payment plans, I see that payment plan 14 had the biggest percentage of imports that were errored at 44% compared to the rest of the plans. This could be a tell that the service of this plan is not good. 
 
