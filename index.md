@@ -1,2 +1,2 @@
-.  [Map My Customers](https://caitlin0806.github.io/MMC)
-.  [Data Analytics Project](https://caitlin0806.github.io/MMC/project0)
+.  [Map My Customers](https://caitlin0806.github.io/MapMyCustomers)
+.  [Data Analytics Project](https://caitlin0806.github.io/MapMyCustomers/project0)
