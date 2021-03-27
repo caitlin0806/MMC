@@ -45,7 +45,7 @@ I found that payment plan 7, which is the free payment plan, had the most users 
 
 ![importpay](https://user-images.githubusercontent.com/67920437/112705347-b3462000-8e74-11eb-9abd-94739839b9de.png)
 
-The free payment plan (payment plan 7) had the most imports at 352. Looking at import status across payment plans, I see that payment plan 14 had the biggest percentage of imports that were errored at 44% compared to the rest of the plans. This could be a tell that the service of this plan is not good.
+The free payment plan (payment plan 7) had the most imports at 352. Looking at import status across payment plans, I see that payment plan 14 had the biggest percentage of imports that were errored at 44% compared to the rest of the plans. This could be a tell that the service of this plan is not good. 
 
 ![morn](https://user-images.githubusercontent.com/67920437/112705350-b80ad400-8e74-11eb-9e72-f7a64495ad94.png)
 
