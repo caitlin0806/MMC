@@ -14,7 +14,7 @@ There are a total of 1359 imports. Broken down, the majority of the imports are 
 
 ![statuspie](https://user-images.githubusercontent.com/67920437/112704508-41200c00-8e71-11eb-8343-5cbc755b7c43.png)
 
-Imports with a completed status make up almost 70%, errored makes up about 29%, and errored and running combined makes up 1%. It is good to see that the majority of imports are being completed.
+Imports with a completed status make up almost 70%, errored makes up about 29%, and queued and running combined makes up 1%. It is good to see that the majority of imports are being completed.
 
 ![deactpie](https://user-images.githubusercontent.com/67920437/112704681-dc18e600-8e71-11eb-9f71-10988830e38b.png)
 Diving into the breakdown of users, about 94% of users are still active. It is good to see only a small percentage of the users have deactivated.
