@@ -34,12 +34,12 @@ The majority of users (252) are team owners and it is about half and half on whe
 
 ![deactusers](https://user-images.githubusercontent.com/67920437/112705052-7e859900-8e73-11eb-92a6-0c4aecad688d.png)
 
-All the team managers are still active and only 6% of the team owners have deactivated.
+All of the team managers are still active and only 6% of the team owners have deactivated.
 
 **I was curious to see if deactivation status had anything to do with the users' payment plan.**
 
 ![deactpay](https://user-images.githubusercontent.com/67920437/112705114-b12f9180-8e73-11eb-880e-91a7f0d5cb46.png)
-I found that payment plan 7, which is the free payment plan, had the most users (130) and payment plan 4 had the least (1). This could potentially mean that payment plan 4 is most likely not the best payment plan for users or it is not a popular choice. Payment plan 1 had the biggest percentage of people who deactivated at 40%, but only 5 people had that plan. Payment plan 13 has 33 users and 15% of them deactivated. This was an interesting visualization to look at as payment plan 13 might not be a plan that users like as well.
+I found that payment plan 7, which is the free payment plan, had the most users (130) and payment plan 4 had the least (1). This could potentially mean that payment plan 4 is most likely not the best payment plan for users or it is not a popular choice. Payment plan 1 had the biggest percentage of people who deactivated at 40%, but only 5 people had that plan. Payment plan 13 had 33 users and 15% of them deactivated. This was an interesting visualization to look at as payment plan 13 might not be a plan that users like as well.
 
 **Lastly, I decided to look at trends that dealt with imports.**
 
@@ -49,7 +49,7 @@ The free payment plan (payment plan 7) had the most imports at 352. Looking at i
 
 ![morn](https://user-images.githubusercontent.com/67920437/112705350-b80ad400-8e74-11eb-9e72-f7a64495ad94.png)
 
-I broke down the import times into morning vs night. This means that if the time is AM, it was in the morning category and if the time was PM, it was in the night categroy. The majority of the imports (1055) happened in an hour that ended in PM and had a bigger percentage of these imports had an errored status. The imports that happened in an hour ending in AM (304) had a bigger percentage of completed status. This tells me that imports done in the morning were more likely to be completed.
+I broke down the import times into morning vs night. This means that if the time is AM, it was in the morning category and if the time was PM, it was in the night category. The majority of the imports (1055) happened in an hour that ended in PM and a bigger percentage of these imports had an errored status. The imports that happened in an hour ending in AM (304) had a bigger percentage of completed status. This tells me that imports done in the morning were more likely to be completed.
 
 
 
