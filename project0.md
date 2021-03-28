@@ -10,7 +10,7 @@ Here you can see the top 10 most frequent users and the total amount of times th
 
 ![statustotals](https://user-images.githubusercontent.com/67920437/112704209-1c776480-8e70-11eb-9e4b-c6b615f338fd.png)
 
-There are a total of 1359 imports. Broken down, the majority of the imports are completed (948) or errored (397).
+There are a total of 1,359 imports. Broken down, the majority of the imports are completed (948) or errored (397).
 
 ![statuspie](https://user-images.githubusercontent.com/67920437/112704508-41200c00-8e71-11eb-8343-5cbc755b7c43.png)
 
@@ -50,7 +50,7 @@ The free payment plan (payment plan 7) had the most imports at 352. Looking at i
 
 ![morn](https://user-images.githubusercontent.com/67920437/112705350-b80ad400-8e74-11eb-9e72-f7a64495ad94.png)
 
-I broke down the import times into morning vs night. This means that if the time is AM, it was in the morning category and if the time was PM, it was in the night category. The majority of the imports (1055) happened in an hour that ended in PM and a bigger percentage of these imports had an errored status. The imports that happened in an hour ending in AM (304) had a bigger percentage of completed status. This tells me that imports done in the morning were more likely to be completed.
+I broke down the import times into morning vs night. This means that if the time is AM, it was in the morning category and if the time was PM, it was in the night category. The majority of the imports (1,055) happened in an hour that ended in PM and a bigger percentage of these imports had an errored status. The imports that happened in an hour ending in AM (304) had a bigger percentage of completed status. This tells me that imports done in the morning were more likely to be completed.
 
 
 
